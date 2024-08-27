@@ -1,0 +1,163 @@
+﻿*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black !important;
+}
+
+@font-face{
+    font-family: mull;
+    src: url(Mulish-VariableFont_wght.ttf);
+}
+
+.container{
+    width: 1320px !important;
+    height: 1000px !important;
+    background-color: rgba(255, 255, 255, 0.954)!important;
+    
+}
+
+
+
+.box{
+    height: 262px !important ;
+    width: 213px !important;
+    border-radius: 12px;
+    background-color: rgba(255, 255, 255, 0.986)!important;
+
+}
+.pic{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.box1{
+    display: flex;
+    align-items: center;
+    column-gap: 16px;
+    
+}
+.Blood{
+    margin-top: 39px ;
+    font-size: 16px;
+    font-family: mull;
+    
+}
+
+.numbers{
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    margin-left: 20px;
+    column-gap: 8px;
+}
+.number{
+    font-size: 32px;
+}
+
+.mgs{
+    font-size: 16px;
+    font-family: mull;
+    color:hsla(0, 0%, 50%, 1) ;
+}
+.numm{
+    width: 58px;
+    height: 23px;
+    margin-left: 20px;
+    background-color: hsla(34, 81%, 86%, 1);
+    font-size: 12px;
+    font-family: mull;
+    text-align: center;
+    border-radius: 4px;
+    
+}
+
+.group11{
+    margin-left: 20px;
+   margin-bottom: 10.5px;
+}
+.group12{
+    margin-left: 20px;
+   margin-bottom: 10.5px;
+}
+
+.numm1{
+    width: 58px;
+    height: 23px;
+    margin-left: 20px;
+    background-color:hsla(344, 58%, 96%, 1);
+    font-size: 12px;
+    font-family: mull;
+    text-align: center;
+    border-radius: 4px; 
+}
+.pic{
+    width: 58px;
+    height: 58px;
+}
+
+.numm2{
+    width: 58px;
+    height: 23px;
+    margin-left: 20px;
+    background-color:hsla(185, 100%, 91%, 1);
+    font-size: 12px;
+    font-family: mull;
+    text-align: center;
+    border-radius: 4px;  
+}
+.ssd{
+    font-size: 12px;
+    font-family: mull;
+}
+.picss{
+    width: 58px;
+    height: 58px;
+   margin-left: 20px;
+   margin-top: 20px;
+    border-radius: 12px;
+    background-color: hsla(0, 81%, 86%, 1);
+}
+
+.vec{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.sky{
+    font-size: 16px;
+    font-family: mull;
+    margin-top: 15px;
+    margin-left: 16px;
+}
+
+.Blood1{
+    font-size: 16px;
+    font-family: mull;
+    padding-top: 15px;
+    
+    
+    
+}
+
+.faren{
+    margin-top: 6px;
+}
+
+.omen{
+    display: flex;
+}
+
+
+.norm1{
+    width: 58px;
+    height: 23px;
+    border-radius: 4px;
+    background-color:hsla(0, 81%, 86%, 1) ;
+}
+
+
+
+
